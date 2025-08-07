@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🤖 AI-Driven Algorithmic Trading System
 
 ## 📋 Assignment Overview
