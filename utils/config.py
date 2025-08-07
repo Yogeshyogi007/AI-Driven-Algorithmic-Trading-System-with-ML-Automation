@@ -1,6 +1,6 @@
 # 🔑 Alpaca API Keys (Keep this file private!)
-ALPACA_API_KEY = "PK6TUU8PQAY50QN5MSF5"
-ALPACA_SECRET_KEY = "CEmeaYj0k25JHtqGwodggjb9HEvx5tr371XEnVBJ"
+ALPACA_API_KEY = "TYPE-YOUR-API_KEY"
+ALPACA_SECRET_KEY = "TYPE-YOUR-SECRET_KEY"
 BASE_URL = "https://paper-api.alpaca.markets"  # Paper Trading Mode
 
 # 📊 NIFTY 50 Stocks for Assignment
