@@ -3,8 +3,8 @@ import pandas as pd
 import datetime
 
 # Replace with your actual API keys
-API_KEY = "PK6TUU8PQAY50QN5MSF5"
-API_SECRET = "CEmeaYj0k25JHtqGwodggjb9HEvx5tr371XEnVBJ"
+API_KEY = "TYPE-YOUR-API_KEY"
+API_SECRET = "TYPE-YOUR-SECRET_KEY"
 BASE_URL = "https://paper-api.alpaca.markets"  # Use live URL if trading real
 
 # Initialize API
