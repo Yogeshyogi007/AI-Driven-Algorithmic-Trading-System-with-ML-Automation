@@ -209,8 +209,3 @@ For questions or issues:
 - Use paper trading for testing
 
 ---
-
-**🎉 This project fully meets all assignment requirements and includes bonus features!**
-=======
-# AI-Driven-Algorithmic-Trading-System-with-ML-Automation
->>>>>>> 368dad6d447ba9c540f2f4dcecf449d049313a76
