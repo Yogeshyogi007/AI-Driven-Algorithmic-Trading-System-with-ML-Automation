@@ -5,8 +5,6 @@
 
 This project implements a complete algorithmic trading system that meets all the requirements specified in the assignment:
 
-### ✅ **Assignment Requirements Met:**
-
 1. **Data Ingestion (20%)** ✅
    - Fetches intraday/daily stock data for NIFTY 50 stocks
    - Uses Yahoo Finance API for reliable data access
